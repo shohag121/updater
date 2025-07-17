@@ -1,5 +1,8 @@
 # AppSero Client Updater
 
+### Version 2.3.5
+- Fixed: Missing methods added to prevent a fatal error
+
 ### Version 2.3.4
 - Fixed: Plugin update message do not display after dependent plugin version update
 
